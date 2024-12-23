@@ -1,6 +1,3 @@
-Here's a ready-to-paste README.md box for your GitHub project:  
-
-```markdown
 # 🌌 **Simulux Game Engine**  
 **Welcome to Simulux!** A modular, powerful, and lightweight game engine designed for seamless development and creativity. 🚀  
 
